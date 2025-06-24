@@ -1,0 +1,15 @@
+.
+├── LICENSE
+├── README.md
+├── Untitled.mp4
+├── file_structure.txt
+├── main.py
+├── requirements.txt
+├── score_
+└── utils
+    ├── __pycache__
+    │   └── image_processor.cpython-312.pyc
+    ├── background.jpg
+    └── image_processor.py
+
+3 directories, 10 files
